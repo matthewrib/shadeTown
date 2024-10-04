@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s04qfak",
+  "description": "https://v2.scrimba.com/introduction-to-es6-c0t/~012",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "Scrim-s04qfak": "file:",
+    "vite": "latest"
+  }
+}
